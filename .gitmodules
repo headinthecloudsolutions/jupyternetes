@@ -1,0 +1,3 @@
+[submodule "components/helm-chart"]
+	path = components/helm-chart
+	url = https://github.com/headinthecloudsolutions/jupyternetes-helm-chart
