@@ -1,3 +1,6 @@
 [submodule "components/helm-chart"]
 	path = components/helm-chart
 	url = https://github.com/headinthecloudsolutions/jupyternetes-helm-chart
+[submodule "components/libraries/jupyternetes-models-python"]
+	path = components/libraries/jupyternetes-models-python
+	url = https://github.com/headinthecloudsolutions/jupyternetes-models-python.git
